@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quang Linh</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<h3 align="center">A passionate developer from Vietnam</h3>
 
 - ✍ I'm a student of: [FPT University HCM](https://hcmuni.fpt.edu.vn/).
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qlinh28&label=Profile%20views&color=0e75b6&style=flat" alt="qlinh28" /> </p>

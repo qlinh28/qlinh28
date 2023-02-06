@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quang Linh</h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog/fullscreen">
+<img align="right" alt="Coding" width="400" src="<iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>">
 
 
 - ✍ I'm a student of: [FPT University HCM](https://hcmuni.fpt.edu.vn/).
